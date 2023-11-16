@@ -41,5 +41,12 @@
          <sub>JungKyuDong</sub>
        </a>
      </td>
+    <td align="center">
+       <a href="https://github.com/yooputer">
+         <img src="https://avatars.githubusercontent.com/u/90578407?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>yooputer</sub>
+       </a>
+     </td>
    </tr>
  </table>
